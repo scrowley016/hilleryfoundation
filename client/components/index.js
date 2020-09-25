@@ -5,4 +5,8 @@
  */
 export {default as Navbar} from './navbar'
 export {default as UserHome} from './user-home'
-export {Login, Signup} from './auth-form'
+export {default as DonationForm} from './donationForm'
+export {default as Home} from './home'
+export {default as Honoree} from './honoree'
+export {default as About} from './about'
+export {default as Footer} from './footer'

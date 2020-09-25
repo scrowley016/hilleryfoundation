@@ -1,7 +1,7 @@
 {
-  "name": "boilermaker",
+  "name": "hillery",
   "version": "2.0.0",
-  "description": "Some boilerplate code to get you started - get shakin'!",
+  "description": "Scholership Foundation to Support Timon",
   "engines": {
     "node": "~12.11.1"
   },
