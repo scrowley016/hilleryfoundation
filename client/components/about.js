@@ -5,12 +5,10 @@ export default class AboutMe extends Component {
   render() {
     return (
       <div>
-        <div className="abouttitle">
-          About The John D. Hillery Memorial Scholership Foundation
-        </div>
+        <div className="abouttitle">About The Scholership Foundation</div>
         <div className="about">
           <div className="aboutPhoto">
-            <img src="paw.png" height="300em" width="300em" />
+            <img src="paw.png" height="200em" width="200em" />
           </div>
           <div className="aboutbody">
             <p>
@@ -36,13 +34,11 @@ export default class AboutMe extends Component {
               whose interest and generocity, the work of the Hillery Memorial
               Scholership Foundation has been made possible.
             </p>
-          </div>
-          <div className="boardNames">
+            <p>Current Board Of Directors:</p>
             <p>
-              Current Board Of Directors Marge Carroll Pat Crowley Maureen
-              Diggins Neil Farrell Sheila and Daniel Finucane Jim Hillery Sue
-              and Ted Overdorf Thomas J. Sullivan Mary Ellen and Tom Reilly
-              Karen and Charlie Wilson
+              Marge Carroll Pat Crowley Maureen Diggins Neil Farrell Sheila and
+              Daniel Finucane Jim Hillery Sue and Ted Overdorf Thomas J.
+              Sullivan Mary Ellen and Tom Reilly Karen and Charlie Wilson
             </p>
           </div>
         </div>
