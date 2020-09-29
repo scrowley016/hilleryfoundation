@@ -36,8 +36,13 @@ export default class Contact extends Component {
     return (
       <div>
         <div className="contacttitle">
-          <h2>Contact Page</h2>
-          <h3> Please fill out the form below</h3>
+          {/* <h2>Contact Page</h2> */}
+          <h3>
+            If you have questions about the Scholership Foundation, or would
+            like to reach out to a member of our board, please fill out the
+            contact form below. We will reply to your request over email. Thank
+            You!
+          </h3>
         </div>
         <div className="containerContact">
           <div>

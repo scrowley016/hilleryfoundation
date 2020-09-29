@@ -4,6 +4,7 @@ import {withRouter, Route, Switch} from 'react-router-dom'
 import PropTypes from 'prop-types'
 import {
   About,
+  Contact,
   DonationForm,
   Home,
   Honoree,
@@ -26,11 +27,12 @@ class Routes extends Component {
 
     return (
       <Switch>
-        <Route path="/*" component={Home} />
-        <Route path="/form" component={DonationForm} />
-        <Route path="/home" component={Home} />
-        <Route path="/honor" component={Honoree} />
-        <Route path="/about" component={About} />
+        <Route exact path="/form" component={DonationForm} />
+        <Route exact path="/home" component={Home} />
+        <Route exact path="/honor" component={Honoree} />
+        <Route exact path="/about" component={About} />
+        <Route exact path="/contact" component={Contact} />
+        <Route exact path="/" component={Home} />
       </Switch>
     )
   }

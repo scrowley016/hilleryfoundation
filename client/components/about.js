@@ -6,11 +6,9 @@ export default class AboutMe extends Component {
     return (
       <div>
         <div className="abouttitle">About The Scholership Foundation</div>
+
         <div className="about">
-          <div className="aboutPhoto">
-            <img src="paw.png" height="200em" width="200em" />
-          </div>
-          <div className="aboutbody">
+          <div className="aboutbody1">
             <p>
               In the fall of 1956, the Judge D. Hillery Memorial Scholership
               Foundation was concived and dedicated by Gerald A. Whalen as a
@@ -21,19 +19,27 @@ export default class AboutMe extends Component {
               Timon-St. Jude High School to assist them in attaining a sound
               parochial education.
             </p>
+          </div>
+          <div className="aboutbody2">
             <p>
               To Date, over 3,000 students have enjoyed the benefits of
               financial grants-in-aid awarded by the foundation.
             </p>
+          </div>
+
+          <div className="aboutbody3">
             <p>
               The Committee of the Memorial Scholership Foundation is most
               inspired by the acceptance of its objectives and program, which is
               evidenced by community support and generous donations. Current and
-              past recipients, along with the Hillery FOundation, owe a debt of
+              past recipients, along with the Hillery Foundation, owe a debt of
               gratitude to you and the hundreds of other benefactors through
               whose interest and generocity, the work of the Hillery Memorial
               Scholership Foundation has been made possible.
             </p>
+          </div>
+
+          <div className="aboutbody4">
             <p>Current Board Of Directors:</p>
             <p>
               Marge Carroll Pat Crowley Maureen Diggins Neil Farrell Sheila and
