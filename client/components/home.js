@@ -7,9 +7,8 @@ export default class Home extends Component {
     return (
       <div>
         <img src="sweep.gif" height="300em" width="500em" />
-        <h2>Click Below for More Information</h2>
-        <Link className="homelink" to="form">
-          2020 Sweepstakes
+        <Link to="form">
+          <img src="clickhere.png" width="90%" height="40%" />
         </Link>
       </div>
     )

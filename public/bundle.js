@@ -524,10 +524,13 @@ function (_Component) {
         src: "sweep.gif",
         height: "300em",
         width: "500em"
-      }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", null, "Click Below for More Information"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_2__["Link"], {
-        className: "homelink",
+      }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_2__["Link"], {
         to: "form"
-      }, "2020 Sweepstakes"));
+      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+        src: "clickhere.png",
+        width: "90%",
+        height: "40%"
+      })));
     }
   }]);
 
