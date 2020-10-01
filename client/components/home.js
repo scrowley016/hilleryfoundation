@@ -7,8 +7,10 @@ export default class Home extends Component {
     return (
       <div>
         <img src="sweep.gif" height="300em" width="500em" />
+        <h2> Only 400 Tickets Will be Sold!</h2>
+        <h2>Grand Prize $10,000!</h2>
         <Link to="form">
-          <img src="clickhere.png" width="90%" height="40%" />
+          <img src="clickhere.png" width="100%" height="50%" />
         </Link>
       </div>
     )

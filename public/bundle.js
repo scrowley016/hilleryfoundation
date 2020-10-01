@@ -104,7 +104,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 var App = function App() {
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components__WEBPACK_IMPORTED_MODULE_1__["Navbar"], null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_routes__WEBPACK_IMPORTED_MODULE_2__["default"], null));
+  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components__WEBPACK_IMPORTED_MODULE_1__["Navbar"], null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_routes__WEBPACK_IMPORTED_MODULE_2__["default"], null), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components__WEBPACK_IMPORTED_MODULE_1__["Footer"], null));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (App);
@@ -524,12 +524,12 @@ function (_Component) {
         src: "sweep.gif",
         height: "300em",
         width: "500em"
-      }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_2__["Link"], {
+      }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", null, " Only 400 Tickets Will be Sold!"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", null, "Grand Prize $10,000!"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_2__["Link"], {
         to: "form"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
         src: "clickhere.png",
-        width: "90%",
-        height: "40%"
+        width: "100%",
+        height: "50%"
       })));
     }
   }]);
@@ -703,6 +703,7 @@ var Navbar = function Navbar(_ref) {
   var handleClick = _ref.handleClick,
       isLoggedIn = _ref.isLoggedIn;
   return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_3__["Link"], {
+    className: "homelink",
     to: "home"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", null, "Judge John D. Hillery Memorial Scholarship Foundation")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("nav", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_3__["Link"], {
     className: "link",

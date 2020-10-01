@@ -6,7 +6,7 @@ import {logout} from '../store'
 
 const Navbar = ({handleClick, isLoggedIn}) => (
   <div>
-    <Link to="home">
+    <Link className="homelink" to="home">
       <h1>Judge John D. Hillery Memorial Scholarship Foundation</h1>
     </Link>
     <nav>

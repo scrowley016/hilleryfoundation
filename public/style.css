@@ -7,6 +7,10 @@ body {
   height: 100%;
   overflow: auto;
 }
+p {
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
 .loader:empty {
   position: absolute;
   top: calc(50% - 4em);
@@ -60,9 +64,6 @@ button {
 button:hover {
   background-color: goldenrod;
 }
-.homelink {
-  color: black;
-}
 .link {
   font-family: Roboto;
   display: inline-block;
@@ -84,23 +85,10 @@ button:hover {
 }
 .homelink {
   font-family: Roboto;
-  display: inline-block;
-  background-color: green;
-  border-radius: 1px;
-  border: 1px solid white;
-  color: white;
-  text-align: center;
-  font-size: 20px;
-  width: 200px;
-  -webkit-transition: all 0.5s;
-  -moz-transition: all 0.5s;
-  -o-transition: all 0.5s;
-  transition: all 0.5s;
-  cursor: pointer;
-  margin: 5px;
+  color: black;
 }
-.homelink:hover {
-  background-color: goldenrod;
+.homelink:visited {
+  color: black;
 }
 .content:hover {
   -webkit-transition: all 0.5s;
