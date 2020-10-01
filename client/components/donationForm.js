@@ -18,13 +18,13 @@ export default class Resume extends Component {
             For over sixty two years the Hillery Memorial Scholarship Foundation
             has enabled young men of Bishop-Timon St. Jude High School to
             receive financial aid to help support their decision to seek a
-            Franciscan based education.The contnued support of the community has
-            provided over $1,000,000 in financial aid.
+            Franciscan based education.The continued support of the community
+            has provided over $1,000,000 in financial aid.
           </p>
           <p>
             Normally this is the time of year when we would be inviting you to
             the annual event that shares in celebrating Timon’s recognition of
-            alumni and friends who give their giNs and talents to further the
+            alumni and friends who give their gifts and talents to further the
             Best that is Western New York. But, because of Covid-19, this is far
             from a normal year.Covid-19 has had a serious negative impact on the
             economy including many of our Timon families and students. Now more
@@ -32,22 +32,28 @@ export default class Resume extends Component {
           </p>
           <p>
             This year we are instead hosting the Scholarship Suppoters
-            Sweepstakes, giving you the chance to support our men, and maybe
-            winning some money as well!
+            Sweepstakes, giving you the chance to support the students, and
+            maybe win some money in the process!
           </p>
           <h2>Only 400 tickets will be sold, with a chance to win $10,000!</h2>
           <p>
             If you would like to purchase a ticket and participate in the
             sweepstakes, click the green button below to downlod the entry form.
-            Complete the form and mail with payment to: We will then mail your
-            numbered ticket to you
+            Complete the form and mail with payment to:
+            <p>Bishop Timon St. Jude High School</p>
+            <p>Attention: The Hillery Foundation</p>
+            <p>601 McKinley Pkwy</p>
+            <p>Buffalo, NY 14220</p>
           </p>
+          <h2>
+            Drawing will be held on November 12,2020 at 12:00pm on our Facebook
+            Page
+          </h2>
+          <a href="form.pdf" download="hilleryscholarshipsweepstales">
+            <img src="click.gif" height="40%vh" width="40%vw" />
+          </a>
           <h2>Good Luck and Thank you for Your Support!</h2>
         </div>
-
-        <a href="form.pdf" download="hilleryscholarshipsweepstales">
-          <img src="click.gif" height="40%vh" width="40%vw" />
-        </a>
       </div>
     )
   }
