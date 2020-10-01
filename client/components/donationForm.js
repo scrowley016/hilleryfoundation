@@ -30,7 +30,12 @@ export default class Resume extends Component {
             economy including many of our Timon families and students. Now more
             than ever there is a need for your continued support.
           </p>
-          <h4>Only 400 tickets will be sold, with a chance to win $10,000!</h4>
+          <p>
+            This year we are instead hosting the Scholarship Suppoters
+            Sweepstakes, giving you the chance to support our men, and maybe
+            winning some money as well!
+          </p>
+          <h2>Only 400 tickets will be sold, with a chance to win $10,000!</h2>
           <p>
             If you would like to purchase a ticket and participate in the
             sweepstakes, click the green button below to downlod the entry form.
