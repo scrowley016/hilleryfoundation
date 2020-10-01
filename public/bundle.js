@@ -161,15 +161,15 @@ function (_Component) {
     value: function render() {
       return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "abouttitle"
-      }, "About The Scholership Foundation"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      }, "About The Scholarship Foundation"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "about"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "aboutbody1"
-      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "In the fall of 1956, the Judge D. Hillery Memorial Scholership Foundation was concived and dedicated by Gerald A. Whalen as a living memorial to a great humanitarian and true friend of Bishop Timon-St. Jude High School. Taking its cue from the generous spirit of the late jurist, The Scholership Committee confirmed its primary objective of furnishing aid to worthy students of Bishop Timon-St. Jude High School to assist them in attaining a sound parochial education.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "In the fall of 1956, the Judge D. Hillery Memorial Scholarship Foundation was concived and dedicated by Gerald A. Whalen as a living memorial to a great humanitarian and true friend of Bishop Timon-St. Jude High School. Taking its cue from the generous spirit of the late jurist, The Scholarship Committee confirmed its primary objective of furnishing aid to worthy students of Bishop Timon-St. Jude High School to assist them in attaining a sound parochial education.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "aboutbody2"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "To Date, over 3,000 students have enjoyed the benefits of financial grants-in-aid awarded by the foundation.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "aboutbody3"
-      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "The Committee of the Memorial Scholership Foundation is most inspired by the acceptance of its objectives and program, which is evidenced by community support and generous donations. Current and past recipients, along with the Hillery Foundation, owe a debt of gratitude to you and the hundreds of other benefactors through whose interest and generocity, the work of the Hillery Memorial Scholership Foundation has been made possible.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "The Committee of the Memorial Scholarship Foundation is most inspired by the acceptance of its objectives and program, which is evidenced by community support and generous donations. Current and past recipients, along with the Hillery Foundation, owe a debt of gratitude to you and the hundreds of other benefactors through whose interest and generocity, the work of the Hillery Memorial Scholarship Foundation has been made possible.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "aboutbody4"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Current Board Of Directors:"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Marge Carroll Pat Crowley Maureen Diggins Neil Farrell Sheila and Daniel Finucane Jim Hillery Sue and Ted Overdorf Thomas J. Sullivan Mary Ellen and Tom Reilly Karen and Charlie Wilson"))));
     }
@@ -292,7 +292,7 @@ function (_Component) {
     value: function render() {
       return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "contacttitle"
-      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", null, "If you have questions about the Scholership Foundation, or would like to reach out to a member of our board, please fill out the contact form below. We will reply to your request over email. Thank You!")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", null, "If you have questions about the Scholarship Foundation, or would like to reach out to a member of our board, please fill out the contact form below. We will reply to your request over email. Thank You!")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "containerContact"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("form", {
         onSubmit: this.handleSubmit
@@ -375,9 +375,11 @@ function (_Component) {
   _createClass(Resume, [{
     key: "render",
     value: function render() {
-      return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+        className: "spara"
+      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "sTitle"
-      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", null, "Welcome to the 2020 Scholership Supporters Sweepstakes!"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", null, "Welcome to the 2020 Scholarship Supporters Sweepstakes!"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "sMoney"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
         src: "money.gif",
@@ -388,9 +390,9 @@ function (_Component) {
       }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
         src: "money.gif",
         height: "50em"
-      }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "This year, we cannot be together for our annual fundraiser dinner, but more than ever the young men of Timon need uot support. This is why we decided to hold out first ever scholership sweepstakes!"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", null, "Only 400 tickets will be sold, with a chance to win $10,000!"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "If you would like to purchase a ticket and participate in the sweepstakes, click the green button below to downlod the entry form. Complete the form and mail with payment to: We will then mail your numbered ticket to you"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", null, "Good Luck and Thank you for Your Support!")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+      }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "For over sixty two years the Hillery Memorial Scholarship Foundation has enabled young men of Bishop-Timon St. Jude High School to receive financial aid to help support their decision to seek a Franciscan based education.The contnued support of the community has provided over $1,000,000 in financial aid."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Normally this is the time of year when we would be inviting you to the annual event that shares in celebrating Timon\u2019s recognition of alumni and friends who give their giNs and talents to further the Best that is Western New York. But, because of Covid-19, this is far from a normal year.Covid-19 has had a serious negative impact on the economy including many of our Timon families and students. Now more than ever there is a need for your continued support."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", null, "Only 400 tickets will be sold, with a chance to win $10,000!"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "If you would like to purchase a ticket and participate in the sweepstakes, click the green button below to downlod the entry form. Complete the form and mail with payment to: We will then mail your numbered ticket to you"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", null, "Good Luck and Thank you for Your Support!")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
         href: "form.pdf",
-        download: "hilleryscholershipsweepstales"
+        download: "hilleryscholarshipsweepstales"
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
         src: "click.gif",
         height: "40%vh",
@@ -457,7 +459,7 @@ function (_Component) {
       return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("footer", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
         className: "line",
         src: "lines.png"
-      }), "\xA9 Copyright 2020, Shannon Crowley and The Hillery Memorial Scholership Foundation. All Rights Reserved."));
+      }), "\xA9 Copyright 2020, Shannon Crowley and The Hillery Memorial Scholarship Foundation. All Rights Reserved."));
     }
   }]);
 
@@ -593,7 +595,7 @@ function (_React$Component) {
       console.log(this.props);
       return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
         className: "names"
-      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", null, " Thank You to All of our Supporters!"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Listed below are individuals who have shown outstanding support for our scholership foundation benefiting the men at Bishop Timon-St.Jude. We have honored them at past fundraising dinners, and would like to thank them for their dedication to our community and thier commitment to excellence.", ' '), this.props.honoree && this.props.honoree.map(function (people) {
+      }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", null, " Thank You to All of our Supporters!"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Listed below are individuals who have shown outstanding support for our scholarship foundation benefiting the men at Bishop Timon-St.Jude. We have honored them at past fundraising dinners, and would like to thank them for their dedication to our community and thier commitment to excellence.", ' '), this.props.honoree && this.props.honoree.map(function (people) {
         return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
           key: people.id,
           className: "namesList"
@@ -697,7 +699,9 @@ __webpack_require__.r(__webpack_exports__);
 var Navbar = function Navbar(_ref) {
   var handleClick = _ref.handleClick,
       isLoggedIn = _ref.isLoggedIn;
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", null, "Judge John D. Hillery Memorial Scholership Foundation"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("nav", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_3__["Link"], {
+  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_3__["Link"], {
+    to: "home"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", null, "Judge John D. Hillery Memorial Scholarship Foundation")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("nav", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_3__["Link"], {
     className: "link",
     to: "about"
   }, "About Us"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_router_dom__WEBPACK_IMPORTED_MODULE_3__["Link"], {

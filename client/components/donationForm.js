@@ -5,9 +5,9 @@ export default class Resume extends Component {
   render() {
     return (
       <div>
-        <div>
+        <div className="spara">
           <div className="sTitle">
-            <h2>Welcome to the 2020 Scholership Supporters Sweepstakes!</h2>
+            <h2>Welcome to the 2020 Scholarship Supporters Sweepstakes!</h2>
             <div className="sMoney">
               <img src="money.gif" height="50em" />
               <img src="money.gif" height="50em" />
@@ -15,9 +15,20 @@ export default class Resume extends Component {
             </div>
           </div>
           <p>
-            This year, we cannot be together for our annual fundraiser dinner,
-            but more than ever the young men of Timon need uot support. This is
-            why we decided to hold out first ever scholership sweepstakes!
+            For over sixty two years the Hillery Memorial Scholarship Foundation
+            has enabled young men of Bishop-Timon St. Jude High School to
+            receive financial aid to help support their decision to seek a
+            Franciscan based education.The contnued support of the community has
+            provided over $1,000,000 in financial aid.
+          </p>
+          <p>
+            Normally this is the time of year when we would be inviting you to
+            the annual event that shares in celebrating Timon’s recognition of
+            alumni and friends who give their giNs and talents to further the
+            Best that is Western New York. But, because of Covid-19, this is far
+            from a normal year.Covid-19 has had a serious negative impact on the
+            economy including many of our Timon families and students. Now more
+            than ever there is a need for your continued support.
           </p>
           <h4>Only 400 tickets will be sold, with a chance to win $10,000!</h4>
           <p>
@@ -29,7 +40,7 @@ export default class Resume extends Component {
           <h2>Good Luck and Thank you for Your Support!</h2>
         </div>
 
-        <a href="form.pdf" download="hilleryscholershipsweepstales">
+        <a href="form.pdf" download="hilleryscholarshipsweepstales">
           <img src="click.gif" height="40%vh" width="40%vw" />
         </a>
       </div>

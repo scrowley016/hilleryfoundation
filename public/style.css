@@ -60,6 +60,9 @@ button {
 button:hover {
   background-color: goldenrod;
 }
+.homelink {
+  color: black;
+}
 .link {
   font-family: Roboto;
   display: inline-block;
@@ -323,6 +326,9 @@ textarea {
   padding-bottom: 1em;
   width: 75vw;
   justify-content: flex-end;
+}
+.sPara {
+  padding: 1em;
 }
 .sTitle {
   display: flex;

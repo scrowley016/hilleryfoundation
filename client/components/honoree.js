@@ -18,7 +18,7 @@ export class Honoree extends React.Component {
           <h2> Thank You to All of our Supporters!</h2>
           <p>
             Listed below are individuals who have shown outstanding support for
-            our scholership foundation benefiting the men at Bishop
+            our scholarship foundation benefiting the men at Bishop
             Timon-St.Jude. We have honored them at past fundraising dinners, and
             would like to thank them for their dedication to our community and
             thier commitment to excellence.{' '}

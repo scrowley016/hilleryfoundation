@@ -38,7 +38,7 @@ export default class Contact extends Component {
         <div className="contacttitle">
           {/* <h2>Contact Page</h2> */}
           <h3>
-            If you have questions about the Scholership Foundation, or would
+            If you have questions about the Scholarship Foundation, or would
             like to reach out to a member of our board, please fill out the
             contact form below. We will reply to your request over email. Thank
             You!
