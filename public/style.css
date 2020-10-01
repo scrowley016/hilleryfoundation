@@ -348,7 +348,7 @@ textarea {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 80vw;
+  padding: 2em;
 }
 
 /* TIMELINE */
