@@ -529,7 +529,7 @@ function (_Component) {
       }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
         src: "clickhere.png",
         width: "350em",
-        height: "150em"
+        height: "150 em"
       })));
     }
   }]);
