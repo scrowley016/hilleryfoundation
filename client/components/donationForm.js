@@ -31,22 +31,22 @@ export default class Resume extends Component {
             than ever there is a need for your continued support.
           </p>
           <p>
-            This year we are instead hosting the Scholarship Suppoters
+            This year we are instead hosting the Scholarship Supporters
             Sweepstakes, giving you the chance to support the students, and
             maybe win some money in the process!
           </p>
           <h2>Only 400 tickets will be sold, with a chance to win $10,000!</h2>
           <p>
             If you would like to purchase a ticket and participate in the
-            sweepstakes, click the green button below to downlod the entry form.
-            Complete the form and mail with payment to:
+            sweepstakes, click the green button below to download the entry
+            form. Print out and complete the form and mail with payment to:
             <p>Bishop Timon St. Jude High School</p>
             <p>Attention: The Hillery Foundation</p>
             <p>601 McKinley Pkwy</p>
             <p>Buffalo, NY 14220</p>
           </p>
           <h2>
-            Drawing will be held on November 12,2020 at 12:00pm on our Facebook
+            Drawing will be held on December 15,2020 at 12:00pm on our Facebook
             Page
           </h2>
           <a href="form.pdf" download="hilleryscholarshipsweepstales">

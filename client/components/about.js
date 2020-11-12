@@ -42,9 +42,9 @@ export default class AboutMe extends Component {
           <div className="aboutbody4">
             <p>Current Board Of Directors:</p>
             <p>
-              Marge Carroll Pat Crowley Maureen Diggins Neil Farrell Sheila and
-              Daniel Finucane Jim Hillery Sue and Ted Overdorf Thomas J.
-              Sullivan Mary Ellen and Tom Reilly Karen and Charlie Wilson
+              Marge Carroll, Pat Crowley, Maureen Diggins, Neil Farrell, Sheila
+              and Daniel Finucane, Jim Hillery, Sue and Ted Overdorf, Thomas J.
+              Sullivan, Mary Ellen and Tom Reilly, Karen and Charlie Wilson
             </p>
           </div>
         </div>

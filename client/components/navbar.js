@@ -13,9 +13,9 @@ const Navbar = ({handleClick, isLoggedIn}) => (
       <Link className="link" to="about">
         About Us
       </Link>
-      <Link className="link" to="honor">
+      {/* <Link className="link" to="honor">
         Past Honorees
-      </Link>
+      </Link> */}
       <Link className="link" to="form">
         2020 Sweepstakes
       </Link>
