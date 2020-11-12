@@ -49,6 +49,7 @@ export default class Resume extends Component {
             Drawing will be held on December 15,2020 at 12:00pm on our Facebook
             Page
           </h2>
+          <h3>*Please note the date change!*</h3>
           <a href="form.pdf" download="hilleryscholarshipsweepstales">
             <img src="click.gif" height="40%vh" width="40%vw" />
           </a>
